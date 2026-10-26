@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Map of Destinations</title>
+		<link rel="stylesheet" href="../vendor/leaflet/leaflet.css"/>
+		<script src="../vendor/leaflet/leaflet.js"></script>
+		<link rel="stylesheet" href="../styles.css" type="text/css"/>
+		<style>
+			#map div, #map a { color: black; }
+		</style>
+	</head>
+	<body>
+		<div class="title">Destinations</div><br/>
+		The map below shows the various destinations we'll be visiting on our trip. There are different icons for the people and the communities.<br/>
+		JavaScript is required to display and interact with the map.<br/>
+		<strong>Everything here is still very tentative!!</strong><br/>
+		<input type="button" value="Show route" onclick="toggleRoute();" id="routeToggleButton"/>
+		<input type="button" value="Trace route (experimental)" onclick="traceRoute();"/>
+		<input type="button" value="Reset map" onclick="resetMap();"/>
+		<br/>
+		<div id="map" style="width: 780px; max-width: 100%; height: 500px"></div>
+		<br/>
+		<span id="map_description"></span>
+		<script src="map.js"></script>
+		<script>setupMap('mapdata.xml');</script>
+	</body>
+</html>

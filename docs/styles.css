@@ -1,0 +1,79 @@
+#map_description {
+	font: 20px bold;
+}
+
+body 
+{
+	background-color: #732511;
+/*	background-image: url('blog/wp-content/themes/chinared/images/kubrickbgcolor.jpg');
+*/
+/*
+	background-image: url(/decoration/stars.jpg);
+	background-repeat: repeat;
+	font-weight: bold;
+*/
+	color: #D7b963;
+}
+/*
+p { color: #4060C0; } //dark blue
+td { color: #4060C0; } //dark blue
+*/
+
+a:link { color: #ba9830; text-decoration: none; }
+a:visited { color: #ba9830; text-decoration: none; }
+a:hover { color: #ba9830; text-decoration: underline; }
+
+.title { font-size: 24pt }
+.highlight { color: white; }
+
+/* styles for calendar page */
+/* hide the right column */
+.after_month_title, .after_month {
+        display:none;
+}
+.month, .after_month, .month_title, .after_month_title {
+        background-color: darkblue;
+        color: white;
+        vertical-align: top;
+        font-weight: bold;
+        text-align: center;
+}
+.weekday_label {
+        background-color: #3300ff;
+        font-weight: bold;
+        text-align: center;
+}
+.day, .day_other, .day_friend, .day_community, .day_motel, .day_camping, .day_hostel, .day_today {
+/*        text-decoration: underline;
+        font-size: 10px;  */
+        text-align: center;
+        padding: 0;
+}
+.day {
+	background-color: #424242;
+}
+#day_today {
+	color: white;
+	font-weight: bold;
+}
+.day_friend, .key_friend {
+	background-color: maroon;
+}
+.day_community, .key_community {
+	background-color: #993300;
+}
+.day_motel, .key_motel {
+	background-color: darkblue;
+}
+.day_hostel, .key_hostel {
+	background-color: #858f07;
+}
+.day_camping, .key_camping {
+	background-color: darkgreen;
+}
+.day_other, .key_other {
+	background-color: #81027c;
+}
+.day_empty {
+        background-color: black;
+}

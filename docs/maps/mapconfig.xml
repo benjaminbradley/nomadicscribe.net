@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<mapconfig>
+	<icons>
+		<icon type="camping" imageurl="http://www.nomadicscribe.net/maps/Tent.gif" height="32" width="32" />
+		<icon type="community" imageurl="http://www.nomadicscribe.net/maps/GingerbreadHouse.gif" height="32" width="32" />
+		<icon type="friend" imageurl="http://www.nomadicscribe.net/maps/PlainPeople.gif" height="32" width="32" />
+		<icon type="hostel" />
+		<icon type="motel" imageurl="http://www.nomadicscribe.net/maps/ParkPlace.gif" height="32" width="32" />
+		<icon type="other" />
+	</icons>
+</mapconfig>

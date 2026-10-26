@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mapdata>
+	<markers>
+
+		<marker lat="38.25864" lng="-80.10462" name="Zendik Farm" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Zendik_Farm"
+			city="Marlinton"
+			state="WV"/>
+		<marker lat="40.637518" lng="-74.083424" name="Ganas" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Ganas" 
+			address1="135 Corson Avenue"
+			city="Staten Island"
+			state="NY"/>
+		<marker lat="40.30685" lng="-92.08536" name="Dancing Rabbit Ecovillage" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Dancing_Rabbit_Ecovillage" 
+			startdate="2006-04-17" enddate="2006-05-08 or later?"
+			city="Rutledge" state="MO"/>
+		<marker lat="35.56462" lng="-82.46120" name="Earthaven Ecovillage" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Earthaven_Ecovillage" 
+			city="Black Mountain" state="NC"/>
+		<marker lat="37.932539" lng="-77.990721" name="Twin Oaks" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Twin_Oaks"
+			city="Louisa" state="VA"/>
+		<marker lat="36.337646" lng="-92.385131" name="East Wind" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=East_Wind"
+			city="Mountain Home" state="AR"/>
+		<marker lat="43.932353" lng="-122.841279" name="Lost Valley" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Lost_Valley"
+			startdate="2006-02-15" enddate="2006-02-16"
+			city="Dexter" state="OR"/>
+		<marker lat="42.436780" lng="-76.481621" name="Ecovillage at Ithaca" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Ecovillage_at_Ithaca"
+			city="Ithaca" state="NY"/>
+		<marker lat="30.253209" lng="-97.706281" name="Rhizome Collective" type="community" 
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Rhizome_Collective" 
+			address1="300 Allen Street" city="Austin" state="TX"
+			hidden="true"/>
+
+		<marker lat="" lng="" name="Gesundheit! Institute" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=Gesundheit%21_Institute" 
+			city="Arlington" state="VA"
+			hidden="true"/>
+		<marker lat="35.23933" lng="-87.39972" name="The Farm" type="community"
+			wikiurl="http://wiki.nomadicscribe.net/index.php?title=The_Farm"
+			city="Summertown" state="TN"
+			hidden="true"/>
+
+
+		<marker lat="32.21457" lng="-111.04613" name="April's hometown friends" type="friend"
+			startdate="2006-03-10"
+			city="Tucson" state="AZ"/>
+
+		<marker lat="35.72462" lng="-111.65821" name="Pamela (Benjamin's friend)" type="friend"
+			startdate="2006-03-15"
+			city="Flagstaff" state="AZ"/>
+
+		<marker lat="33.817135" lng="-118.014335" name="Laura (Benjamin's friend)" type="friend"
+			startdate="2006-03-01"
+			city="Cypress" state="CA"/>
+
+		<marker lat="45.514640" lng="-122.673606" name="Maggie (April's friend)" type="friend"
+			startdate="2006-02-01" enddate=""
+			city="Portland" state="OR"/>
+
+		<marker lat="35.927423" lng="-86.865659" name="Tami (April's friend) ('til 4/06)" type="friend"
+			city="Nashville" state="TN"/>
+
+		<marker lat="38.89552" lng="-77.01985" name="Chris Magers (Benjamin's friend)" type="friend"
+			city="Washington" state="DC"/>
+
+		<marker lat="34.514125" lng="-93.282723" name="Ken Rains (April's Dad)" type="friend"
+			startdate="2006-05-10"
+			city="Royal" state="AR"/>
+
+		<marker lat="41.600289" lng="-93.614917" name="Kara (Benjamin's friend)" type="friend"
+			
+			city="Des Moines" state="IA"/>
+
+		<marker lat="34.013013" lng="-118.273907" name="friends (jeff brewer, shawna thomas, gentry, elleanore &amp; tipton)" type="friend"
+			startdate="2006-02-28"
+			city="Los Angeles" state="CA"/>
+
+		<marker lat="32.552605" lng="-117.044090" name="Kathleen (Benjamin's cousin)" type="friend"
+			startdate="2006-03-05"
+			city="San Diego" state="CA"/>
+
+		<marker lat="37.793128" lng="-122.396482" name="John &amp; Domani (Benjamin's cousins)" type="friend"
+			startdate="2006-02-25" enddate=""
+			city="San Francisco" state="CA"/>
+
+		<marker lat="42.372298" lng="-71.062096" name="Kristin (Benjamin's friend)" type="friend"
+			city="Boston" state="MA"/>
+
+
+		<marker lat="30.263508" lng="-97.744683" name="Home" type="other"
+			startdate="2006-01-01" enddate="2006-01-31"
+			city="Austin" state="TX"/>
+		<marker lat="49.216667" lng="-123.100000" name="Vancouver, baby!" type="other"
+			startdate="2006-02-17" enddate=""
+			city="Vancouver" state="BC"/>
+
+		<marker lat="32.775829" lng="-96.82408" name="Dallas" type="other"
+			city="Dallas" state="TX"
+			hidden="true"/>
+
+
+		<routePoint name="Laura (Benjamin's friend)"/>
+		<routePoint name="Pamela (Benjamin's friend)"/>
+		<routePoint name="April's hometown friends"/>
+		<routePoint name="East Wind"/>
+		<routePoint name="Ken Rains (April's Dad)"/>
+		<routePoint name="Dancing Rabbit Ecovillage"/>
+		<routePoint name="Earthaven Ecovillage"/>
+		<routePoint name="Zendik Farm"/>
+		<routePoint name="Twin Oaks"/>
+		<routePoint name="Chris Magers (Benjamin's friend)"/>
+		<routePoint name="Ganas"/>
+		<routePoint name="Benjamin's friends"/>
+		<routePoint name="Ecovillage at Ithaca"/>
+		<routePoint name="Home"/>
+	</markers>
+</mapdata>
