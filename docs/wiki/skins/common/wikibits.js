@@ -36,18 +36,6 @@ if(typeof stylepath != 'undefined' && typeof skin != 'undefined') {
         document.write('<link rel="stylesheet" type="text/css" href="'+stylepath+'/'+skin+'/KHTMLFixes.css">');
     }
 }
-// Un-trap us from framesets
-if( window.top != window && window.top.location) {
-//alert(window.top.location.href);
-//	alert("trying to create a string out of " + window.top.location);
-//	loc = window.top.location;
-//	alert(window.top.location["host"]);
-//alert("loc is "+loc);
-//	if (loc.indexOf("nomadicscribe.net/") == -1 || loc.indexOf("nomadicscribe.net/") > loc.indexOf("/")) {
-//		alert("bad container. resetting");
-		window.top.location = window.location;
-//	}
-}
 
 // for enhanced RecentChanges
 function toggleVisibility( _levelId, _otherId, _linkId) {
